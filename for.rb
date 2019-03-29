@@ -1,7 +1,9 @@
 
 def using_for
 	checklist = 1..10
-	#your code here
+	do
+  puts "The current number is #{counter}."
+end
 end
 
 
