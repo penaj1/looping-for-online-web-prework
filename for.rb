@@ -1,9 +1,8 @@
 
 def using_for
 	checklist = 1..10
-	do
-  puts "The current number is #{counter}."
-end
+for shoe in shoe_count 
+    puts "I'm putting a pair of shoes away."
 end
 
 
